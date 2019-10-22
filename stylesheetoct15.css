@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.iWatch_image {
+    width: 100px;
+}
+
+.iWatch_article {
+    
+    background-color: #1E242A;
+    max-width: 400px;
+    margin: auto;
+    padding: 40px 20px;
+    color: white;
+}
+
+.iWatch_title {
+    margin: 20px;
+    color: #ff7164
+}
+
+.iWatch_description {
+    font-size: 12px;
+    margin: 20px;
+    line-height: 20px;
+}
+
+.iWatch_button {
+    background-color:transparent;
+    border: 2px solid #f5786c; 
+    color: #f5786c;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.iWatch_button:hover {
+    background-color: #f5786c;
+    color: white;
+}

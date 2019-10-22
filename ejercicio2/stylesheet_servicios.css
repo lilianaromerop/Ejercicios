@@ -1,0 +1,30 @@
+.img_container {
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    width: 60px;
+    margin: 20px;
+}
+
+.img_container {
+    background-color: cadetblue;
+    text-align: center;
+    position: absolute;
+}
+
+.description_optimized {
+    margin-left: 120px;
+    width: 380px;
+}
+
+h1 {
+    font-family: roboto condensed;
+}
+
+p {
+    font-family: roboto condensed;
+    font-size: 15px;
+    margin-top: -3px;
+}

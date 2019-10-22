@@ -1,0 +1,37 @@
+img {
+    width: 550px;
+}
+
+div {
+    height: 50px;
+    text-align: center;
+    margin-top: 10px;
+    width: 550px;
+}
+
+a {
+    text-decoration: none;
+    font-family: Arial;
+    color: white;
+    font-style: normal;
+}
+
+.menu1 {
+    background-color: #f1e4d5;
+    margin: 0;
+}
+
+.menu2 {
+    background-color: #e8ab45;
+    margin: 0;
+}
+
+.menu3 {
+    background-color: #68460d;
+    margin: 0;
+}
+
+.menu4 {
+    background-color: #cc9a66;
+    margin: 0;
+}
